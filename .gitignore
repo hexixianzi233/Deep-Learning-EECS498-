@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 A1/cifar-10-python.tar.gz
 A1/cifar-10-batches-py
+A2/cifar-10-batches-py
+.gitignore
